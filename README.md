@@ -185,11 +185,11 @@ Materi pelatihan ini dapat digunakan dan disebarluaskan untuk kepentingan pendid
 ## 🔄 Versi & Update
 
 **Versi:** 1.0  
-**Tanggal:** November 2024  
+**Tanggal:** November 2025  
 **Update terakhir:** -
 
 **Changelog:**
-- v1.0 (Nov 2024): Versi pertama pelatihan
+- v1.0 (Nov 2025): Versi pertama pelatihan
 
 ---
 
