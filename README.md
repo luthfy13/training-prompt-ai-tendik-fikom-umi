@@ -230,4 +230,4 @@ Terima kasih kepada:
 
 **Selamat Belajar dan Semoga Sukses! 🎉**
 
-*Dipersiapkan dengan ❤️ untuk tenaga kependidikan Fasilkom UMI*
+*Dipersiapkan dengan ❤️ untuk tenaga kependidikan FIKOM UMI*
